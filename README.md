@@ -1,13 +1,13 @@
-#Dotfiles
+# Dotfiles
 
-##Widgets
+## Widgets
 ![](1.png)
 
-##Code + Chrome
+## Code + Chrome
 ![](2.png)
 
-##Wallpaper
+## Wallpaper
 ![](3.png)
 
-##Rofi
+## Rofi
 ![](4.png)

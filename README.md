@@ -1,5 +1,7 @@
 # Dotfiles
 
+.config files for arch + dwm (big work in progress)
+
 ## Widgets
 ![](1.png)
 
